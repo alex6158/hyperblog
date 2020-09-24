@@ -9,6 +9,7 @@ ahora deseo abarcar.
 * topicos de css.
 
 Porbrando Git cherry-pick
+Incluye algunos ejemplos adicionales.
 
 Quese encuentra [aqui](https://platzi.com/clases/1557-git-github/)
 
